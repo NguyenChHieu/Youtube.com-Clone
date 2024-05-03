@@ -1,2 +1,2 @@
 # Youtube.com Clone
-Cloning a simple feature of Youtube, self practicing HTML/CSS.
+Cloning a more simple version of Youtube, self-practicing HTML/CSS, front-end design principles.
