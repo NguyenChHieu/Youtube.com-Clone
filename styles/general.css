@@ -5,6 +5,7 @@ p {
 }
 
 body{
+  font-family: Roboto, Arial;
   background-color: rgb(246, 244, 244);
   margin: 0;
   padding-top: 80px;
